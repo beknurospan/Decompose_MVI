@@ -8,7 +8,7 @@ apikey= ваш кей только это надо добавит в gradle.prop
 Простое приложение прогноза погоды на Android с использованием:
 
 - Jetpack Compose + Decompose (навигация)
-- MVI архитектура
+- MVI архитектура 
 - Dagger (Dependency Injection)
 - Room (локальная база данных)
 - Retrofit (сетевая работа)   
