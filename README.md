@@ -1,6 +1,6 @@
 ## Инструкции по сборке проекта
 
-
+ 
 apikey= ваш кей только это надо добавит в gradle.properties  
 
 # ☀️ WeatherApp
